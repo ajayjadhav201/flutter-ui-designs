@@ -14,5 +14,5 @@ A great resource for learning how to implement complex UI designs in Flutter.
 To get started with this project, you can clone the repository and run it on your local machine.
  
 1. Clone the repository
-git clone https://github.com/ajayjadhav201/flutter-ui-designs.git
+    git clone https://github.com/ajayjadhav201/flutter-ui-designs.git
 
