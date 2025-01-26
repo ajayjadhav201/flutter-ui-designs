@@ -9,6 +9,8 @@ Clean and reusable code for easy integration into other projects.
 Customizable layouts and themes to match different design styles.
 A great resource for learning how to implement complex UI designs in Flutter.
 
+![Cubic Curve](/assets/cubic_curve.jpg)
+
 ## Installation
 
 To get started with this project, you can clone the repository and run it on your local machine.
